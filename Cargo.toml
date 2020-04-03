@@ -1,0 +1,17 @@
+[package]
+name = "efi-ucs2"
+version = "0.1.0"
+authors = ["Xiaoyu Lu <xiaoyux.lu@intel.com>"]
+edition = "2018"
+description = "EFI UCS-2 encode and decode function"
+repository = "https://github.com/xiaoyuxlu/efi-ucs2"
+categories = ["encoding", "no-std", "uefi", "efi"]
+license = "BSD-2-Clause-Patent"
+readme = "Readme.md"
+
+[dependencies]
+
+[badges]
+maintenance = { status = "passively-maintained" }
+is-it-maintained-issue-resolution = { repository = "https://github.com/xiaoyuxlu/efi-ucs2" }
+is-it-maintained-open-issues = { repository = "https://github.com/xiaoyuxlu/efi-ucs2" }
